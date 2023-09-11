@@ -10907,18 +10907,15 @@ h1{
 }
 
 .container2{
-  max-width: 100%;
-  height: 80%;
+  max-width: 1080px;
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
   background-color: rgb(237, 237, 237);
   padding: 10px ;
-
-  justify-content: center;
 }
 
-.container div{
+.container2 div{
   flex: 1 1 300px;
   margin: 10px;
 }
@@ -10926,7 +10923,7 @@ h1{
 img{
   width: 100%;
   border-radius: 10px;
-  justify-content: center;
+  padding-left: 20px;
 }
 
 .descricao-produto{

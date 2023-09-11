@@ -1,0 +1,38 @@
+{
+    "background_color": "#000000",
+    "description": "MyShop, é site de ecommerce",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "MyShop",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "MyShop",
+    "start_url": "/",
+    "theme_color": "#000000",
+    "categories": [
+      "Buy",
+      "Commerce",
+      "Ecommerce",
+      "Sell"
+    ],
+    "screenshots": [],
+    "icons": [
+      {
+        "src": "AppIcons/playstore.png",
+        "sizes": "512x512",
+        "types": "image/png"
+      }
+  
+      ,
+      
+      {
+        "src": "AppIcons/appstore.png",
+        "sizes": "512x512",
+        "types": "image/png"
+      }
+  
+  
+    ],
+    "shortcuts": [],
+    "lang": "pt"
+  }

@@ -20,16 +20,86 @@
       {
         "src": "AppIcons/playstore.png",
         "sizes": "512x512",
-        "types": "image/png"
+        "types": "image/png",
+        "purpose": "any maskable"
       }
   
       ,
       
       {
         "src": "AppIcons/appstore.png",
-        "sizes": "512x512",
-        "types": "image/png"
+        "sizes": "1024x1024",
+        "types": "image/png",
+        "purpose": "any maskable"
+        
       }
+      ,
+      
+      {
+        "src": "AppIcons/Assets.xcassets/AppIcon.appiconset/29.png",
+        "sizes": "29x29",
+        "types": "image/png",
+        "purpose": "any maskable"
+        
+      }
+      ,
+      
+      {
+        "src": "AppIcons/Assets.xcassets/AppIcon.appiconset/40.png",
+        "sizes": "40x40",
+        "types": "image/png",
+        "purpose": "any maskable"
+      }
+      ,
+      
+      {
+        "src": "AppIcons/Assets.xcassets/AppIcon.appiconset/57.png",
+        "sizes": "57x57",
+        "types": "image/png",
+        "purpose": "any maskable"
+      }
+      
+      ,
+      
+      {
+        "src": "AppIcons/Assets.xcassets/AppIcon.appiconset/60.png",
+        "sizes": "60x60",
+        "types": "image/png",
+        "purpose": "any maskable"
+      }
+      ,
+      
+      {
+        "src": "AppIcons/Assets.xcassets/AppIcon.appiconset/80.png",
+        "sizes": "80x80",
+        "types": "image/png",
+        "purpose": "any maskable"
+      }
+      ,
+      
+      {
+        "src": "AppIcons/Assets.xcassets/AppIcon.appiconset/114.png",
+        "sizes": "114x114",
+        "types": "image/png",
+        "purpose": "any maskable"
+      }
+      ,
+      
+      {
+        "src": "AppIcons/Assets.xcassets/AppIcon.appiconset/180.png",
+        "sizes": "180x180",
+        "types": "image/png",
+        "purpose": "any maskable"
+      }
+      ,
+      
+      {
+        "src": "AppIcons/Assets.xcassets/AppIcon.appiconset/1024.png",
+        "sizes": "1024x1024",
+        "types": "image/png",
+        "purpose": "any maskable"
+      }
+      
   
   
     ],

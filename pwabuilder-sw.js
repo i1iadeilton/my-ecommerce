@@ -10,6 +10,7 @@ self.addEventListener("message", (event) => {
   }
 });
 
+
 workbox.routing.registerRoute(
   new RegExp('/*'),
   new workbox.strategies.StaleWhileRevalidate({
